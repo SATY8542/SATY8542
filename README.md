@@ -286,7 +286,6 @@ An AI/ML-based project focused on lung disease classification using medical imag
 
 ---
 
-## 📊 GitHub Statistics
 ## 📊 GitHub
 
 <p align="center">
