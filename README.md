@@ -108,8 +108,27 @@ medical imaging.
 
 <p align="center">
   <a href="https://leetcode.com/u/satyendra85/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <img
+      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
+      alt="Satyendra's LeetCode Stats"
+      width="500"
+    />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/satyendra85/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/satyendra85?ext=activity&theme=dark"
+    alt="LeetCode Activity"
+  />
 </p>
 
 ---
