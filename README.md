@@ -207,49 +207,39 @@ An AI/ML-based project focused on **lung disease classification using medical im
 <table>
 <tr>
 
-<td width="25%" align="center">
-
-### IBM
-
-**Web Development & Marketing**
-
-🏅 Certified
-
+<td align="center" width="20%">
+  <b>IBM</b><br>
+  Web Development & Marketing<br><br>
+  🏅 <b>Certified</b>
 </td>
 
-<td width="25%" align="center">
-
-### HCL
-
-**Python**
-
-🏅 Certified
-
+<td align="center" width="20%">
+  <b>HCL</b><br>
+  Python<br><br>
+  🏅 <b>Certified</b>
 </td>
 
-<td width="25%" align="center">
-
-### IBM PBEL
-
-**Virtual Internship Program**
-
-🎓 Stipend Received
-
+<td align="center" width="20%">
+  <b>IBM PBEL</b><br>
+  Virtual Internship Program<br><br>
+  🎓 <b>Stipend Received</b>
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
+  <b>TATA iQ</b><br>
+  GenAI Powered Data Analytics<br><br>
+  🎓 <b>Job Simulation Completed</b>
+</td>
 
-### TATA iQ
-
-**GenAI Powered Data Analytics**
-
-🎓 Job Simulation Completed
-
+<td align="center" width="20%">
+  <b>Techpile</b><br>
+  45 Days Summer Training<br>
+  Data Analytics<br><br>
+  🏅 <b>A++ Grade</b>
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 🧩 LeetCode
