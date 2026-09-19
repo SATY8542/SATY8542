@@ -99,7 +99,7 @@ medical imaging.
 <p align="center">
   <a href="https://leetcode.com/u/satyendra85/">
     <img
-      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12&ext=activity"
+      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
       alt="Satyendra's LeetCode Stats"
       width="600"
     />
