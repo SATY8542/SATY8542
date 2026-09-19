@@ -65,65 +65,192 @@ and continuously learning new technologies.
 - ⚙️ System Design
 
 ---
+---
 
 ## ❤️ Interests
 
-- 🤖 AI / Machine Learning
-- 📊 Data Analytics
-- 💡 Problem Solving
-- 🌐 Open Source
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖
+**AI / Machine Learning**
+
+Building intelligent solutions and exploring practical AI applications.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+**Data Analytics**
+
+Turning data into meaningful insights and decisions.
+
+</td>
+
+<td width="25%" align="center">
+
+### 💡
+**Problem Solving**
+
+Enjoy solving programming and algorithmic challenges.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌐
+**Open Source**
+
+Learning from and contributing to the developer community.
+
+</td>
+</tr>
+</table>
+
 ---
 
-
-
-
 ## 📚 Currently Learning
-   ↓
-   Deep Learning
-   React
-   Cloud Computing
-   System Design
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🧠
+**Deep Learning**
+
+Neural networks & real-world applications
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚛️
+**React**
+
+Building modern web applications
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️
+**Cloud Computing**
+
+Scalable & reliable applications
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️
+**System Design**
+
+Designing scalable software systems
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Featured Project
 
+<table>
+<tr>
+<td width="35%" align="center">
+
+### 🫁 Lung Disease Diagnosis
+
+**Using Machine Learning**
+
+AI/ML-based medical imaging project for multi-class lung disease classification.
+
+</td>
+
+<td width="65%">
+
 ### 🫁 Lung Disease Diagnosis Using Machine Learning
 
-An AI/ML-based project focused on lung disease classification using
-medical imaging.
+An AI/ML-based project focused on **lung disease classification using medical imaging**.
 
-**Technologies:**
+**Key Features**
 
-- Python
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- PyTorch
-- SHAP
-- Medical Imaging
-- Machine Learning
+- ✅ Multi-class classification
+- ✅ Normal, COVID-19, Pneumonia & Tuberculosis
+- ✅ DenseNet121 transfer learning
+- ✅ Grad-CAM explainability
+- ✅ Confidence score
+- ✅ Medical image analysis
+- ✅ Web-based prediction interface
 
----
+**Technologies**
 
-## 📂 Other Projects
+`Python` `TensorFlow` `PyTorch` `Scikit-learn`  
+`Pandas` `NumPy` `SHAP` `Medical Imaging`
 
-- 📊 Customer Churn Prediction
-- 📧 Spam Email Classifier
-- 📄 Resume Screening
-- 🤖 Data Science & Machine Learning Projects
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SATY8542/lung-disease-app">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- IBM certification in Web Development and Marketing
-- HCL certification in Python
-- PBEL stipend for completion of the IBM PBEL Virtual Internship Program
-- Tata iQ / Forage GenAI Powered Data Analytics job simulation
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### IBM
+
+**Web Development & Marketing**
+
+🏅 Certified
+
+</td>
+
+<td width="25%" align="center">
+
+### HCL
+
+**Python**
+
+🏅 Certified
+
+</td>
+
+<td width="25%" align="center">
+
+### IBM PBEL
+
+**Virtual Internship Program**
+
+🎓 Stipend Received
+
+</td>
+
+<td width="25%" align="center">
+
+### TATA iQ
+
+**GenAI Powered Data Analytics**
+
+🎓 Job Simulation Completed
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-
 
 ## 🧩 LeetCode
 
@@ -151,33 +278,29 @@ medical imaging.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/SATY8542">
-    <img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/satyendra-singh-858237357/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/SATY8542">
+  <img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/satyendra85/">
-    <img src="https://img.shields.io/badge/LeetCode-satyendra85-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+<a href="https://www.linkedin.com/in/satyendra-singh-858237357/">
+  <img src="https://img.shields.io/badge/LinkedIn-Satyendra%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/satyendra85/">
+  <img src="https://img.shields.io/badge/LeetCode-satyendra85-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 <p align="center">
-  📧 <b>satyendrasinghdk2@gmail.com</b>
+  📧 <a href="mailto:satyendrasinghdk2@gmail.com">satyendrasinghdk2@gmail.com</a>
 </p>
 
 ---
 
-## 🎯 Career Goal
-
-To build a career in Machine Learning, Artificial Intelligence,
-Data Science, and software development while continuously improving
-my technical and problem-solving skills.
-
----
-
 <p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+
+### 💻 Building • Learning • Solving • Growing 🚀
+
 </p>
