@@ -66,44 +66,48 @@ and continuously learning new technologies.
 
 ---
 ---
-
 ## ❤️ Interests
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 🤖
-**AI / Machine Learning**
+🤖<br>
+<b>AI / Machine Learning</b>
 
-Building intelligent solutions and exploring practical AI applications.
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊
-**Data Analytics**
-
-Turning data into meaningful insights and decisions.
+Building intelligent solutions<br>
+and exploring practical AI<br>
+applications.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 💡
-**Problem Solving**
+📊<br>
+<b>Data Analytics</b>
 
-Enjoy solving programming and algorithmic challenges.
+Turning data into meaningful<br>
+insights and decisions.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 🌐
-**Open Source**
+💡<br>
+<b>Problem Solving</b>
 
-Learning from and contributing to the developer community.
+Enjoy solving programming<br>
+and algorithmic challenges.
+
+</td>
+
+<td align="center" width="25%">
+
+🌐<br>
+<b>Open Source</b>
+
+Learning from and contributing<br>
+to the developer community.
 
 </td>
 </tr>
@@ -115,44 +119,47 @@ Learning from and contributing to the developer community.
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 🧠
-**Deep Learning**
+🧠<br>
+<b>Deep Learning</b>
 
-Neural networks & real-world applications
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚛️
-**React**
-
-Building modern web applications
+Neural networks & real-world<br>
+applications
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### ☁️
-**Cloud Computing**
+⚛️<br>
+<b>React</b>
 
-Scalable & reliable applications
+Building modern web<br>
+applications
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### ⚙️
-**System Design**
+☁️<br>
+<b>Cloud Computing</b>
 
-Designing scalable software systems
+Scalable & reliable<br>
+applications
+
+</td>
+
+<td align="center" width="25%">
+
+⚙️<br>
+<b>System Design</b>
+
+Designing scalable software<br>
+systems
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Project
