@@ -287,32 +287,23 @@ An AI/ML-based project focused on lung disease classification using medical imag
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Satyendra's GitHub Stats"
-  />
+
+<a href="https://github.com/SATY8542">
+<img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/github/followers/SATY8542?style=for-the-badge&label=Followers&logo=github">
+
+<img src="https://img.shields.io/github/stars/SATY8542?style=for-the-badge&label=Total%20Stars&logo=github">
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SATY8542&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Satyendra's GitHub Streak"
-  />
+<b>Building projects • Learning new technologies • Solving problems</b>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SATY8542&theme=tokyo-night&hide_border=true&radius=12"
-    alt="Satyendra's Contribution Graph"
-  />
-</p>
-
 ---
 
 ## 📫 Connect With Me
