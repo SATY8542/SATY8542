@@ -95,13 +95,18 @@ medical imaging.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=tokyonight" alt="Satyendra's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=dark&hide_border=true"
+    alt="Satyendra's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATY8542&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATY8542&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🧩 LeetCode
