@@ -74,20 +74,8 @@ and continuously learning new technologies.
 - 🌐 Open Source
 ---
 
-## 🚀 Featured Project
-## 🛠️ Skills
 
-### Programming Languages
-...
 
-### Machine Learning & Data Science
-...
-
-### Web Development
-...
-
-### Database & Tools
-...
 
 ## 📚 Currently Learning
    ↓
