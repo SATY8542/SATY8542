@@ -99,9 +99,9 @@ medical imaging.
 <p align="center">
   <a href="https://leetcode.com/u/satyendra85/">
     <img
-      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
+      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12&ext=activity"
       alt="Satyendra's LeetCode Stats"
-      width="500"
+      width="600"
     />
   </a>
 </p>
@@ -109,29 +109,10 @@ medical imaging.
 <p align="center">
   <a href="https://leetcode.com/u/satyendra85/">
     <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode Profile"
+      src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="View LeetCode Profile"
     />
   </a>
-</p>
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/satyendra85?ext=activity&theme=dark"
-    alt="LeetCode Activity"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=transparent"
-    alt="Satyendra's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATY8542&layout=compact&theme=transparent"
-    alt="Top Languages"
-  />
 </p>
 
 ---
