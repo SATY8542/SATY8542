@@ -159,6 +159,7 @@ Designing scalable software systems
 
 <table>
 <tr>
+
 <td width="35%" align="center">
 
 ### 🫁 Lung Disease Diagnosis
@@ -187,10 +188,12 @@ An AI/ML-based project focused on **lung disease classification using medical im
 
 **Technologies**
 
-`Python` `TensorFlow` `PyTorch` `Scikit-learn`  
+`Python` `TensorFlow` `PyTorch` `Scikit-learn`
+
 `Pandas` `NumPy` `SHAP` `Medical Imaging`
 
 </td>
+
 </tr>
 </table>
 
