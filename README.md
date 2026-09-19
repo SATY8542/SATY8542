@@ -162,6 +162,13 @@ Designing scalable software systems
 
 <td width="35%" align="center">
 
+## 🚀 Featured Project
+
+<table>
+<tr>
+
+<td width="35%" align="center">
+
 ### 🫁 Lung Disease Diagnosis
 
 **Using Machine Learning**
@@ -202,7 +209,6 @@ An AI/ML-based project focused on **lung disease classification using medical im
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
-
 ---
 
 ## 🏆 Certifications & Achievements
