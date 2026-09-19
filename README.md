@@ -92,22 +92,7 @@ medical imaging.
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=dark&hide_border=true"
-    alt="Satyendra's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATY8542&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
----
 
 ## 🧩 LeetCode
 
@@ -133,6 +118,19 @@ medical imaging.
   <img
     src="https://leetcard.jacoblin.cool/satyendra85?ext=activity&theme=dark"
     alt="LeetCode Activity"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SATY8542&show_icons=true&theme=transparent"
+    alt="Satyendra's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATY8542&layout=compact&theme=transparent"
+    alt="Top Languages"
   />
 </p>
 
