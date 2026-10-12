@@ -115,21 +115,7 @@ An AI/ML-based project focused on multi-class lung disease classification using 
 
   
 
-## 📊 GitHub
 
-<p align="center">
-  <a href="https://github.com/SATY8542">
-    <img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/github/followers/SATY8542?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/SATY8542?style=for-the-badge&label=Total%20Stars&logo=github" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <b>Building projects • Learning new technologies • Solving problems</b>
-</p>
-
----
 
 ## 📫 Connect With Me
 
