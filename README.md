@@ -112,28 +112,8 @@ An AI/ML-based project focused on multi-class lung disease classification using 
 
 ---
 
-## 🧩 LeetCode
 
-<p align="center">
-  <a href="https://leetcode.com/u/satyendra85/">
-    <img
-      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
-      alt="Satyendra's LeetCode Statistics"
-      width="500"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/satyendra85/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="View LeetCode Profile"
-    />
-  </a>
-</p>
-
----
+  
 
 ## 📊 GitHub
 
