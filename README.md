@@ -26,240 +26,89 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
 ## ❤️ Interests
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-<b>AI / Machine Learning</b>
-
-Building intelligent solutions and exploring practical AI applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-<b>Data Analytics</b>
-
-Turning data into meaningful insights and decisions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💡
-
-<b>Problem Solving</b>
-
-Enjoy solving programming and algorithmic challenges.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-<b>Open Source</b>
-
-Learning from and contributing to the developer community.
-
-</td>
-
-</tr>
-</table>
+| 🤖 AI / Machine Learning | 📊 Data Analytics | 💡 Problem Solving | 🌐 Open Source |
+|---|---|---|---|
+| Building intelligent solutions and exploring practical AI applications. | Turning data into meaningful insights and decisions. | Solving programming and algorithmic challenges. | Learning from and contributing to the developer community. |
 
 ---
 
 ## 📚 Currently Learning
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠
-
-<b>Deep Learning</b>
-
-Neural networks & real-world applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-<b>React</b>
-
-Building modern web applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-<b>Cloud Computing</b>
-
-Scalable & reliable applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-<b>System Design</b>
-
-Designing scalable software systems.
-
-</td>
-
-</tr>
-</table>
+| 🧠 Deep Learning | ⚛️ React | ☁️ Cloud Computing | ⚙️ System Design |
+|---|---|---|---|
+| Neural networks and real-world applications. | Building modern web applications. | Scalable and reliable applications. | Designing scalable software systems. |
 
 ---
 
 ## 🚀 Featured Project
 
-<table>
-<tr>
-
-<td width="40%" align="center">
-
-# 🫁
-
-### Lung Disease Diagnosis
-
-**Using Machine Learning**
-
-AI/ML-based medical imaging project for multi-class lung disease classification.
-
-</td>
-
-<td width="60%">
-
 ### 🫁 Lung Disease Diagnosis Using Machine Learning
 
-An AI/ML-based project focused on lung disease classification using medical imaging.
+An AI/ML-based project focused on multi-class lung disease classification using medical images.
 
 **Key Features**
 
 - ✅ Multi-class classification
-- ✅ Normal, COVID-19, Pneumonia & Tuberculosis
+- ✅ Normal, COVID-19, Pneumonia, and Tuberculosis classification
 - ✅ DenseNet121 transfer learning
 - ✅ Grad-CAM explainability
-- ✅ Confidence score
+- ✅ Prediction confidence scores
 - ✅ Medical image analysis
 - ✅ Web-based prediction interface
 
 **Technologies**
 
-`Python` `TensorFlow` `PyTorch` `Scikit-learn`
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `SHAP`
 
-`Pandas` `NumPy` `SHAP` `Medical Imaging`
-
-> 🚧 Project repository is currently being prepared for GitHub.
-
-</td>
-
-</tr>
-</table>
+> 🚧 Project repository link will be added when the public repository is ready.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### IBM
-
-💻
-
-**Web Development & Marketing**
-
-</td>
-
-<td align="center" width="25%">
-
-### HCL
-
-🐍
-
-**Python**
-
-</td>
-
-<td align="center" width="25%">
-
-### IBM PBEL
-
-🎓
-
-**Virtual Internship Program**
-
-**Stipend Received**
-
-</td>
-
-<td align="center" width="25%">
-
-### Tata iQ
-
-📊
-
-**GenAI Powered Data Analytics**
-
-**Job Simulation Completed**
-
-</td>
-
-</tr>
-</table>
+| Organization | Certification / Achievement |
+|---|---|
+| IBM | Web Development & Marketing |
+| HCL | Python |
+| IBM PBEL | Virtual Internship Program — stipend received |
+| Tata iQ / Forage | GenAI Powered Data Analytics Job Simulation |
 
 ---
 
@@ -269,7 +118,7 @@ An AI/ML-based project focused on lung disease classification using medical imag
   <a href="https://leetcode.com/u/satyendra85/">
     <img
       src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
-      alt="Satyendra's LeetCode Stats"
+      alt="Satyendra's LeetCode Statistics"
       width="500"
     />
   </a>
@@ -279,7 +128,7 @@ An AI/ML-based project focused on lung disease classification using medical imag
   <a href="https://leetcode.com/u/satyendra85/">
     <img
       src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode Profile"
+      alt="View LeetCode Profile"
     />
   </a>
 </p>
@@ -289,42 +138,34 @@ An AI/ML-based project focused on lung disease classification using medical imag
 ## 📊 GitHub
 
 <p align="center">
-
-<a href="https://github.com/SATY8542">
-<img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/github/followers/SATY8542?style=for-the-badge&label=Followers&logo=github">
-
-<img src="https://img.shields.io/github/stars/SATY8542?style=for-the-badge&label=Total%20Stars&logo=github">
-
+  <a href="https://github.com/SATY8542">
+    <img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/github/followers/SATY8542?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SATY8542?style=for-the-badge&label=Total%20Stars&logo=github" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-<b>Building projects • Learning new technologies • Solving problems</b>
+  <b>Building projects • Learning new technologies • Solving problems</b>
 </p>
+
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/SATY8542">
-<img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/satyendra-singh-858237357/">
-<img src="https://img.shields.io/badge/LinkedIn-Satyendra%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/u/satyendra85/">
-<img src="https://img.shields.io/badge/LeetCode-satyendra85-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-<a href="mailto:satyendrasinghdk2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://github.com/SATY8542">
+    <img src="https://img.shields.io/badge/GitHub-SATY8542-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyendra-singh-858237357/">
+    <img src="https://img.shields.io/badge/LinkedIn-Satyendra%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/satyendra85/">
+    <img src="https://img.shields.io/badge/LeetCode-satyendra85-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:satyendrasinghdk2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -332,11 +173,7 @@ An AI/ML-based project focused on lung disease classification using medical imag
 ## 🌱 Keep Learning
 
 <p align="center">
-
-**💻 Building · 📚 Learning · 🧩 Solving · 🚀 Growing**
-
-<br><br>
-
-*"Turning ideas into practical solutions through code and continuous learning."*
-
+  <b>💻 Building · 📚 Learning · 🧩 Solving · 🚀 Growing</b>
+  <br /><br />
+  <i>"Turning ideas into practical solutions through code and continuous learning."</i>
 </p>
