@@ -104,27 +104,6 @@ An applied computer vision system developed for the multi-class classification o
 
 ---
 
-## 🧩 LeetCode Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/satyendra85/">
-    <img
-      src="https://leetcard.jacoblin.cool/satyendra85?theme=dark&font=Karma&border=0&radius=12"
-      alt="Satyendra Singh's LeetCode Stats"
-      width="480"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/satyendra85/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="View LeetCode Profile"
-    />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics & Activity
